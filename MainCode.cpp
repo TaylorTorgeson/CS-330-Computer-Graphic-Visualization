@@ -3,7 +3,7 @@
 // ============
 // gets called when application is launched - initializes GLEW, GLFW
 //
-//  AUTHOR: Brian Battersby - SNHU Instructor / Computer Science
+//  AUTHOR: Brian Battersby - SNHU Instructor / Computer Science  & Taylor Torgeson - SNHU Student / Computer Science
 //	Created for CS-330-Computational Graphics and Visualization, Nov. 1st, 2023
 ///////////////////////////////////////////////////////////////////////////////
 
