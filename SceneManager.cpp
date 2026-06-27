@@ -3,7 +3,7 @@
 // ============
 // manage the preparing and rendering of 3D scenes - textures, materials, lighting
 //
-//  AUTHOR: Brian Battersby - SNHU Instructor / Computer Science
+//  AUTHOR: Brian Battersby - SNHU Instructor / Computer Science & Taylor Torgeson -SNHU Student / Computer Science
 //	Created for CS-330-Computational Graphics and Visualization, Nov. 1st, 2023
 ///////////////////////////////////////////////////////////////////////////////
 
