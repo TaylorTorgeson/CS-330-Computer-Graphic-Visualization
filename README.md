@@ -28,6 +28,7 @@ How do I approach developing programs?
   The earlier parts of the project were definitely worse for wear, as I did not understand the code very well, and so I was not able to comment or structure it in a way that was very clear. As time progressed though I was able to go back and restructure the code to make it more modular and easier to understand. This helped by making the code easier to read through when going through to fix any bugs that occurred. 
   
 How can computer science help me in reaching my goals?
+  
   -How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?
 
   This appreciating for clean cod eI have developed over this course I hope to transition into all of my coding experiences going forward. Not only does it make it easier for me to read my code, but also to receive help and collaboration on my code.
