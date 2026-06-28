@@ -17,11 +17,21 @@ How do I approach designing software?
 How do I approach developing programs?
   -What new development strategies did you use while working on your 3D scene?
 
+  at the beginning of programming this project, I had never maniuplated a single 3d model before. Thus, the code example were so far beyond my understanding that they might as well have been in another language. This helped me come to appreciate the effectiveness of good commenting practice when coding. THe commenting in teh example code for this project and in this class were crucical to me understanding the nev environment of 3d model design. This also pushed me to be much better about writing my own thorough comment, something I thoguht of as more of an after thought in teh past.
   
-
   -How did iteration factor into your development?
+
+  Because the 3d modeling was new to me, compiling this assignment took place nearly every line of code just to ensure it would compile correctly, at the beginning anyways. Once I got mor ecomfotable with the new coding structure, continually testing the code became extremely useful for visualizing the changes and translations made to the 3d models. Without this constant compilation, manipulating 3d models in a 3d space can become nearly impossible to do effectively.
+  
   -How has your approach to developing code evolved throughout the milestones, which led you to the project’s completion?
+
+  The earlier parts of the project were definitely worse for wear, as I did not understand the code very well, and so I was not able to comment or structure it in a way that was very clear. As time progressed though I was able to go back and restructure the code to make it more modular and easier to understand. This helped by making the code easier to read through when going through to fix any bugs that occurred. 
   
 How can computer science help me in reaching my goals?
   -How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?
+
+  This appreciating for clean cod eI have developed over this course I hope to transition into all of my coding experiences going forward. Not only does it make it easier for me to read my code, but also to receive help and collaboration on my code.
+  
   -How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?
+
+  I'm not sure where this degree will lead me. I have a real fascination with gaem design and hope to follow that path. THese skills relating to 3d model manipulation can be crucial for game design giving me a leg up towards that journey, if that's where the future leads me.
